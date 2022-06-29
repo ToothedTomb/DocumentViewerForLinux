@@ -1,4 +1,4 @@
-# Document Viewer For Linux 1.0!
+# Text Document Viewer For Linux 1.0!
 Lightweight and open source tool to allow people to view their docmuments.
 Will get new features in the future. :)
 Thanks.
